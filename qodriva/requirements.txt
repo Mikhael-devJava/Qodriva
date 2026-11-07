@@ -1,0 +1,3 @@
+# Qodriva has no runtime dependencies (Python standard library only).
+# Development / testing:
+pytest>=7.0
